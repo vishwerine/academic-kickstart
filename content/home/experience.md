@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   location = "Birmingham, UK"
   date_start = "2015-02-01"
   date_end = "2015-05-01"
-  description = """  I worked with medical reports data on
+  description = """  worked with medical reports data on
 long document representation.  Open-source software like Octave to automatically detect handwritten text was used.
   """
 
@@ -46,7 +46,7 @@ long document representation.  Open-source software like Octave to automatically
   location = "Birmingham, UK"
   date_start = "2014-04-01"
   date_end = "2015-07-01"
-  description = """   I worked on the development of a visualisation tool for a probabilistic modeling framework based
+  description = """   worked on the development of a visualisation tool for a probabilistic modeling framework based
 on Latent Dirichlet Allocation (LDA), called joint sentiment-topic model (JST), which detects sentiment and topic
 simultaneously from micro-blogging services.
   """
@@ -58,7 +58,7 @@ simultaneously from micro-blogging services.
   location = "Bangalore, India"
   date_start = "2013-11-30"
   date_end = "2013-12-30"
-  description = """ I worked on developing a simulation framework for a multidisciplinary solution based on the consideration of the so-called small world dynamics which have been proposed for economy and social studies and have recently revealed
+  description = """ worked on developing a simulation framework for a multidisciplinary solution based on the consideration of the so-called small world dynamics which have been proposed for economy and social studies and have recently revealed
 to be a successful approach to be exploited for characterising information propagation in social networks
   """
   
