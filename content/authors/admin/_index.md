@@ -15,7 +15,7 @@ role: Doctoral Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Warwick
-  url: "www.warwick.ac.uk"
+  url: "https://www.warwick.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural langauge processing, machine learning and semantic modeling.
@@ -23,7 +23,7 @@ bio: My research interests include natural langauge processing, machine learning
 interests:
 - Machine Learning
 - Natural Language Processing
-- Joint-Models of images and text
+- Semantics
 
 education:
   courses:
@@ -69,4 +69,4 @@ user_groups:
 
 Vishwash Batra is a PhD candidate in the Computer Science Department at University of Warwick where he is advised by Professor Yulan He. He received his Bachelors (2015) in Computer Science and Engineering from Indian Institute of Technology Ropar, India. 
 
-He joined his PhD studies in January 2016 and since has been a part of NLP research group. His research interests include semantics, structured representation for images and texts, and developing joint-models for natural language processing and computational linguistics. He is continuously working towards developing joint-models for structured representation of images and text for Machine Learning and Deep Learning based methods for Natural Language Processing. Besides his primary research-area of natural language processing, he is also working on data mining and knowledge graphs.
+He joined his PhD studies in January 2016 and since has been a part of NLP research group. His research interests include semantics, structured representation of images and texts. He is continuously working towards developing Machine Learning and Deep Learning based solutions for many tasks in Natural Language Processing and Computer Vision. Besides his primary research-area of natural language processing, he is also working on data mining and knowledge graphs.
