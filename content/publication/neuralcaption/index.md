@@ -1,8 +1,8 @@
-title = "MEANTIME: Achieving both minimal energy and timeliness with approximate computing"
+title = "Neural Caption Generation for News Images"
 date = 2016-06-23T16:30:35-05:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Anne Farrell", "Henry Hoffmann"]
+authors = ["Vishwash Batra", "Yulan He", "George Vogiatzis"]
 
 # Publication type.
 # Legend:
@@ -16,24 +16,24 @@ authors = ["Anne Farrell", "Henry Hoffmann"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In 2016 USENIX Annual Technical Conference"
-publication_short = "In USENIX ATC '16"
+publication = "In 11th Edition of its Language Resources and Evaluation Conference"
+publication_short = "In LREC'18"
 
 # Abstract.
-abstract = "Energy efficiency and timeliness (i.e., predictable job latency) are two essential – yet opposing – concerns for embedded systems. Hard timing guarantees require conservative resource allocation while energy minimization requires aggressively releasing resources and occasionally violating timing constraints. Recent work on approximate computing, however, opens up a new dimension of optimization: application accuracy. In this paper, we use approximate computing to achieve both hard timing guarantees and energy efficiency. Specifically, we propose MEANTIME: a runtime system that delivers hard latency guarantees and energy-minimal resource usage through small accuracy reductions. We test MEANTIME on a real Linux/ARM system with six applications. Overall, we find that MEANTIME never violates real-time deadlines and sacrifices a small amount (typically less than 2%) of accuracy while reducing energy to 54% of a conservative, full accuracy approach."
+abstract = "Automatic caption generation of images has gained significant interest.  It gives rise to a lot of interesting image-related applications.For example, it could help in image/video retrieval and management of vast amount of multimedia data available on the Internet.  Itcould also help in development of tools that can aid visually impaired individuals in accessing multimedia content.  In this paper, weparticularly focus on news images and propose a methodology for automatically generating captions for news paper articles consistingof a text paragraph and an image. We propose several deep neural network architectures built upon Recurrent Neural Networks. Resultson a BBC News dataset show that our proposed approach outperforms a traditional method based on Latent Dirichlet Allocation usingboth automatic evaluation based on BLEU scores and human evaluation."
 
 # Summary. An optional shortened abstract.
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "https://www.aclweb.org/anthology/L18-1273.pdf"
 
 # Is this a featured publication? (true/false)
 featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Recurrent Neural Networks","Deep Learning","Image Caption Generation"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -44,19 +44,19 @@ tags = []
 projects = []
 
 # Links (optional).
-url_pdf = "https://www.usenix.org/system/files/conference/atc16/atc16-paper-farrell.pdf"
+url_pdf = "http://www.lrec-conf.org/proceedings/lrec2018/pdf/725.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
 url_project = ""
-url_slides = "https://www.usenix.org/sites/default/files/conference/protected-files/atc16_slides_farrell.pdf"
+url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "USENIX ATC '16", url = "https://www.usenix.org/conference/atc16/technical-sessions/presentation/farrell"}]
+#url_custom = [{name = "USENIX ATC '16", url = "https://www.usenix.org/conference/atc16/technical-sessions/presentation/farrell"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -65,7 +65,7 @@ math = false
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
