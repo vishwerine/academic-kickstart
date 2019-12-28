@@ -28,12 +28,49 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Assistant"
+  company = "Folding Space"
+  company_url = "http://www.foldingspace.co.uk/"
+  location = "Birmingham, UK"
+  date_start = "2015-02-01"
+  date_end = "2015-05-01"
+  description = """  I worked with medical reports data on
+long document representation.  Open-source software like Octave to automatically detect handwritten text was used.
+  """
+
+
+[[experience]]
+  title = "Research Intern"
+  company = "Aston University"
+  company_url = "http://www.aston.ac.uk/"
+  location = "Birmingham, UK"
+  date_start = "2014-04-01"
+  date_end = "2015-07-01"
+  description = """   I worked on the development of a visualisation tool for a probabilistic modeling framework based
+on Latent Dirichlet Allocation (LDA), called joint sentiment-topic model (JST), which detects sentiment and topic
+simultaneously from micro-blogging services.
+  """
+
+[[experience]]
+  title = "Research Intern"
+  company = "Indian Institute of Science (IISc)"
+  company_url = "http://www.iisc.ac.in/"
+  location = "Bangalore, India"
+  date_start = "2013-11-30"
+  date_end = "2013-12-30"
+  description = """ I worked on developing a simulation framework for a multidisciplinary solution based on the consideration of the so-called small world dynamics which have been proposed for economy and social studies and have recently revealed
+to be a successful approach to be exploited for characterising information propagation in social networks
+  """
+  
+  
+[[experience]]
+  title = "Sofware Development Engineer"
+  company = "Jasper Infotech"
+  company_url = "https://www.snapdeal.com/"
+  location = "New Delhi, India"
+  date_start = "2015-07-01"
+  date_end = "2015-12-30"
+  description = """ I worked on technologies like Java Spring for developing products like Snapdeal
+  """
 
 +++
