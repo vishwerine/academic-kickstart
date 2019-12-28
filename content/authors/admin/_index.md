@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Vishwash Batra is a PhD candidate in the Computer Science Department at [University of Warwick] (https://www.warwick.ac.uk) where he is advised by Professor Yulan He. He received his Bachelors (2015) in Computer Science and Engineering from Indian Institute of Technology Ropar, India. 
+Vishwash Batra is a PhD candidate in the Computer Science Department at [University of Warwick] (https://www.warwick.ac.uk) where he is advised by Professor Yulan He. He received his Bachelors (2015) in Computer Science and Engineering from [Indian Institute of Technology Ropar] (https://www.iitrpr.ac.in), India. 
 
 He joined his PhD studies in January 2016 and since has been a part of NLP research group. His research interests include semantics, structured representation of images and texts. He is continuously working towards developing Machine Learning and Deep Learning based solutions for many tasks in Natural Language Processing and Computer Vision. Besides his primary research-area of natural language processing, he is also working on data mining and knowledge graphs.
