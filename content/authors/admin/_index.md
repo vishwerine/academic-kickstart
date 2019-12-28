@@ -15,7 +15,7 @@ role: Doctoral Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Warwick
-  url: "https://www.warwick.ac.uk"
+#  url: "https://www.warwick.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural langauge processing, machine learning and semantic modeling.
