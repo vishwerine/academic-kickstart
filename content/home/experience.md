@@ -70,7 +70,7 @@ to be a successful approach to be exploited for characterising information propa
   location = "New Delhi, India"
   date_start = "2015-07-01"
   date_end = "2015-12-30"
-  description = """ I worked on technologies like Java Spring for developing products like Snapdeal
+  description = """ worked on technologies like Java Spring for developing products like Snapdeal
   """
 
 +++
