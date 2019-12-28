@@ -45,12 +45,15 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/vishwash010
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/vishwash-batra-50348b45/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=strradIAAAAJ&hl=en&oi=ao
-- icon: github
-  icon_pack: fab
-  link: https://github.com/vishwerine
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/vishwerine
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
