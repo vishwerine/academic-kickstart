@@ -44,10 +44,10 @@ social:
   link: 'mailto:vishwash.iitrpr@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/vishwash010
+  link: https://twitter.com/vishwashbatra
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/vishwash-batra-50348b45/
+  link: https://www.linkedin.com/in/vishwashbatra/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=strradIAAAAJ&hl=en&oi=ao
