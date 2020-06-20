@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Research Assistant"
   company = "University of Warwick"
-  company_url = "www.warwick.ac.uk"
+  company_url = "https://www.warwick.ac.uk"
   location = "Coventry, UK"
   date_start = "2019-05-01"
   date_end = "2019-12-01"
@@ -54,7 +54,7 @@ simultaneously from micro-blogging services.
 [[experience]]
   title = "Research Intern"
   company = "Indian Institute of Science (IISc)"
-  company_url = "http://www.iisc.ac.in/"
+  company_url = "https://www.iisc.ac.in/"
   location = "Bangalore, India"
   date_start = "2013-11-30"
   date_end = "2013-12-30"
