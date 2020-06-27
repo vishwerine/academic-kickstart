@@ -48,17 +48,17 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/vishwashbatra/
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=strradIAAAAJ&hl=en&oi=ao
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=strradIAAAAJ&hl=en&oi=ao
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/vishwerine
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+#- icon: cv
+#  icon_pack: ai
+#  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Vishwash Batra is a PhD candidate in the Computer Science Department at [University of Warwick](https://www.warwick.ac.uk) where he is advised by Professor [Yulan He](https://warwick.ac.uk/fac/sci/dcs/people/yulan_he/). He received his Bachelors (2015) in Computer Science and Engineering from [Indian Institute of Technology Ropar](https://www.iitrpr.ac.in), India. 
+Vishwash Batra is a PhD candidate in the Computer Science Department at [University of Warwick](https://www.warwick.ac.uk). He received his Bachelors (2015) in Computer Science and Engineering from [Indian Institute of Technology Ropar](https://www.iitrpr.ac.in), India. 
 
 He joined his PhD studies in January 2016 and since has been a part of NLP research group. His research interests include semantics, structured representation of images and texts. He is continuously working towards developing Machine Learning and Deep Learning based solutions for many tasks in Natural Language Processing and Computer Vision. Besides his primary research-area of natural language processing, he is also working on data mining and knowledge graphs.
